@@ -1,0 +1,16 @@
+PODS:
+  - STFPSIndicator (1.0)
+
+DEPENDENCIES:
+  - STFPSIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  STFPSIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STFPSIndicator: ae7311d5915ca13de72342737361c518297d20f9
+
+PODFILE CHECKSUM: df55f8a48a5eb3b27b090ecbe87b8229e37927f8
+
+COCOAPODS: 1.0.0
